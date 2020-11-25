@@ -1,0 +1,2 @@
+rootProject.name='Yukiv3'
+include ':app'
